@@ -14,15 +14,12 @@ dependencies:
 
 
 
-  permission_handler: ^11.1.0
+  permission_handler:
 
-  # Camera Packages
-  camera:
-  path_provider:
-  path:
 
-  image_picker:
-  video_player:
+  flutter_hooks:
+  logger:
+
 
 
 
